@@ -268,10 +268,3 @@ Zeek Documentation:
 
 https://docs.zeek.org
 
----
-
-# 👨‍💻 Author
-
-**Vyankatesh Andil**
-
-Cyber Security Enthusiast | SOC Analyst | CEH Certified | Splunk SIEM
